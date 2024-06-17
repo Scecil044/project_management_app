@@ -7,25 +7,29 @@ export default function Home() {
       name: "Jude Belligha,",
       position: "CEO",
       joined: "12th May 2012",
-      avatar: "https://placehold.co/100x400@2x.png",
+      avatar:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
     },
     {
       name: "Saline Jayne,",
       position: "Treasurer",
       joined: "12th May 2012",
-      avatar: "https://placehold.co/100x400@2x.png",
+      avatar:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
     },
     {
       name: "William Sliba,",
       position: "Marketer",
       joined: "12th May 2012",
-      avatar: "https://placehold.co/100x400@2x.png",
+      avatar:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
     },
     {
       name: "Stevens,",
       position: "Coordinator",
       joined: "12th June 2012",
-      avatar: "https://placehold.co/100x400@2x.png",
+      avatar:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
     },
   ];
 
