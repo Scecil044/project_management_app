@@ -20,6 +20,6 @@ export const connectdb = async () => {
     initializeSequence();
   } catch (error) {
     console.log(`Unable to connect to DB: ` + error.message);
-    next(error);
+    throw new Error(error);
   }
 };
