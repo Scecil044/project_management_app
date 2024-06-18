@@ -7,29 +7,25 @@ export default function Home() {
       name: "Jude Belligha,",
       position: "CEO",
       joined: "12th May 2012",
-      avatar:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
+      avatar: "/member.png",
     },
     {
       name: "Saline Jayne,",
       position: "Treasurer",
       joined: "12th May 2012",
-      avatar:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
+      avatar: "/member.png",
     },
     {
       name: "William Sliba,",
       position: "Marketer",
       joined: "12th May 2012",
-      avatar:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
+      avatar: "/member.png",
     },
     {
       name: "Stevens,",
       position: "Coordinator",
       joined: "12th June 2012",
-      avatar:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png",
+      avatar: "/member.png",
     },
   ];
 
@@ -38,7 +34,7 @@ export default function Home() {
       <div className="h-full">
         <div className="h-56 sm:h-64 xl:h-80 2xl:h-96 overflow-hidden relative">
           <img
-            src="https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-PO-TwoPacificPlace-OfficeSuite.jpg&w=3840&q=75"
+            src="/office.webp"
             alt="pic"
             className="w-full object-cover object-top"
           />
@@ -120,7 +116,7 @@ export default function Home() {
 
               <div className="mb-5 w-full relative h-[300px] overflow-hidden">
                 <img
-                  src="https://vertvista.com/img/indoor-plant/upd/green%20office%20plants.jpg"
+                  src="/pic2.jpg"
                   alt="office"
                   className="object-cover h-[300px] w-full"
                 />

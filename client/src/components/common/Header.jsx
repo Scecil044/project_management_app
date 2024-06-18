@@ -36,7 +36,12 @@ export default function Header() {
     <>
       <header className="w-full shadow-lg bg-appRed text-white flex items-center justify-between min-h-14 p-5">
         <div>
-          <Link className="text-lg">Logo</Link>
+          <Link to="/" className="flex text-2xl items-center">
+            <p className="text-4xl">PRO</p>
+            <p>JE</p>
+            <p className="text-[#EDB518] font-semibold">CT</p>
+            <p>PRO</p>
+          </Link>
         </div>
         <nav className="hidden md:inline-flex">
           <ul className="flex items-center gap-5">
